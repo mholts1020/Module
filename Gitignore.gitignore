@@ -1,0 +1,26 @@
+Last login: Wed Jan 12 19:29:23 on ttys000
+(base) maxwellsnyder@MacBook-Pro-8 ~ % >....                                    
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+quote> 
